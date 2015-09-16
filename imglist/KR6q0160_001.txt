@@ -1,0 +1,4 @@
+001-0775c00	X 001-0775c	buddhist/X-xuzang/X64/07/X64-0775.png
+001-0776a00	X 001-0776a	buddhist/X-xuzang/X64/07/X64-0776.png
+001-0776b00	X 001-0776b	buddhist/X-xuzang/X64/07/X64-0776.png
+001-0776c00	X 001-0776c	buddhist/X-xuzang/X64/07/X64-0776.png
